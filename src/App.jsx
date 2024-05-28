@@ -5,7 +5,7 @@ import About from './components/About'
 import Technologies from './components/Technologies'
 import Experience from './components/Experience'
 import Project from './components/Project'
-import Contacts from './Contacts'
+import Contacts from './components/Contacts'
 
 function App() {
   return (
