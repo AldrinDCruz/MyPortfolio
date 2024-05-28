@@ -25,7 +25,7 @@ const Hero = () => {
                 <img src={profilePic} alt="Kevin Rush" />
             </div>
         </div>
-      </div>
+      </div>  
     </div>
   )
 }
